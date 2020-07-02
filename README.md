@@ -13,4 +13,4 @@ Password:Admin
 
 ## Dijagram toka:
 
-![Dijagram](diagram.jpeg)
+![](diagram.jpeg)

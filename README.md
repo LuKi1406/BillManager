@@ -10,3 +10,7 @@ pretraživanje sadržaja u datotekama ovisno o ključnoj riječi, broju, znaku u
 
 Username:Admin
 Password:Admin
+
+## Dijagram toka:
+
+![Dijagram](diagram.jpeg)
